@@ -24,6 +24,7 @@ namespace Controle_de_Produtos
             txtQuantidade.Enabled = true;
             txtVlrUnitario.Enabled = true;
             txtVlrTotal.Enabled = false;
+            btnPesquisa.Enabled = true;
             txtIdProduto.Focus();
         }
         private void DesahabilitaText()
@@ -32,12 +33,14 @@ namespace Controle_de_Produtos
             txtQuantidade.Enabled = false;
             txtVlrUnitario.Enabled = false;
             txtVlrTotal.Enabled = false;
+            btnPesquisa.Enabled = false;
         }
         private void btnIncuir_Click(object sender, EventArgs e)
         {
             Model model = new Model();
             List<DtoProduto2> dtoProdutos = model.GetProdutos();
             dataGridView1.DataSource = dtoProdutos;
+            LimparCapos();
             HabilitaTex();
         }
         private void btnSalvar_Click(object sender, EventArgs e)
@@ -72,6 +75,7 @@ namespace Controle_de_Produtos
         private void LimparCapos()
         {
             txtId.Text = String.Empty;
+            txtDescProduto.Text = String.Empty;
             txtIdProduto.Text = String.Empty;
             txtQuantidade.Text = String.Empty;
             txtVlrUnitario.Text = String.Empty;
@@ -96,8 +100,17 @@ namespace Controle_de_Produtos
                 if (txtIdProduto.Text != string.Empty)
                 {
                     DtoProduto prod = model.GetProdutoId(int.Parse(txtIdProduto.Text));
-                    txtDescProduto.Text = prod.nome.ToString();
-                    txtVlrUnitario.Text = prod.valorcompra.ToString();
+                    if(prod != null)
+                    {
+                        txtDescProduto.Text = prod.nome.ToString();
+                        txtVlrUnitario.Text = prod.valorcompra.ToString();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Produto não encontrado!");
+                        LimparCapos();
+                        HabilitaTex();
+                    }
                 }
             }
             catch (Exception)
@@ -147,6 +160,8 @@ namespace Controle_de_Produtos
             {
 
                 MessageBox.Show("Erro ao cacular valor unitario!");
+                LimparCapos();
+                HabilitaTex();
             }
         }
 
@@ -157,12 +172,22 @@ namespace Controle_de_Produtos
 
         private void btnPesquisa_Leave(object sender, EventArgs e)
         {
-            Model model = new Model();
-            if (txtIdProduto.Text != string.Empty)
+            try
             {
-                DtoProduto prod = model.GetProdutoId(int.Parse(txtIdProduto.Text));
-                txtDescProduto.Text = prod.nome.ToString();
-                txtVlrUnitario.Text = prod.valorcompra.ToString();
+                Model model = new Model();
+                if (txtIdProduto.Text != string.Empty)
+                {
+                    DtoProduto prod = model.GetProdutoId(int.Parse(txtIdProduto.Text));
+                    txtDescProduto.Text = prod.nome.ToString();
+                    txtVlrUnitario.Text = prod.valorcompra.ToString();
+                }
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Produto inválido!");
+                LimparCapos();
+                HabilitaTex();
             }
         }
     }

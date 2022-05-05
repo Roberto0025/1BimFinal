@@ -44,7 +44,12 @@ namespace Controle_de_Produtos
         {
             Context db = new Context();
             DtoProduto prod = db.produto.FirstOrDefault(p => p.id == v);
-            return prod;
+                if(prod != null)
+            {
+                return prod;
+            }
+            else
+                return null;
         }
 
         internal void delUsuario(int id)

@@ -307,3 +307,48 @@ C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.c
 C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
 C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.exe
 C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmConsulta.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\1Bimestre Final\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
