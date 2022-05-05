@@ -1,0 +1,309 @@
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.pdb
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+D:\Users\RASOUZA4\Desktop\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Gerencia\Downloads\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\Controle de Produtos 2\Controle de Produtos\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Buffers.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Memory.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Json.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.pdb
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Buffers.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Memory.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Json.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+D:\Users\RASOUZA4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beto\Desktop\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmConsulta.resources
+D:\Users\rasouza4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+D:\Users\rasouza4\Downloads\2Bim-master\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmConsulta.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmConsulta.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim-master29042022\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Controle de Produtos.exe.config
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Controle de Produtos.pdb
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Npgsql.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Buffers.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Memory.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Text.Json.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.ValueTuple.dll
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Npgsql.pdb
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\Npgsql.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Buffers.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Memory.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Text.Json.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\bin\Debug\System.ValueTuple.xml
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.AssemblyReference.cache
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmBase.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmConsulta.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmEntrada.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmPrincipal.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmProduto.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmSaida.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.FrmUsuario.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle_de_Produtos.Properties.Resources.resources
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.csproj.CopyComplete
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.exe
+C:\Users\Beto\Desktop\2Bim\Controle de Produtos\obj\Debug\Controle de Produtos.pdb
